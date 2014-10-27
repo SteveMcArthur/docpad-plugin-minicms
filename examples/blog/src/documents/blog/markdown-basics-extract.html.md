@@ -1,4 +1,4 @@
-```
+---
 title: 'Markdown Basics Extract'
 type: article
 layout: article
@@ -17,13 +17,15 @@ cms:
         - Reference
         - Basics
         - Geek
-    content: "_Original web page: http://daringfireball.net/projects/markdown/basics_\n\nNow is the time for all good men to come to\nthe aid of their country. This is just a\nregular paragraph.\n\nThe quick brown fox jumped over the lazy\ndog's back.\n\n### Header 3\n\n> This is a blockquote.\n> \n> This is the second paragraph in the blockquote.\n>\n> ## This is an H2 in a blockquote\n\nSome of these words *are emphasized*.\nSome of these words _are emphasized also_.\n\nUse two asterisks for **strong emphasis**.\nOr, if you prefer, __use two underscores instead__.\n*   Candy.\n*   Gum.\n*   Booze.\n+   Candy.\n+   Gum.\n+   Booze.\n-   Candy.\n-   Gum.\n-   Booze.\n1.  Red\n2.  Green\n3.  Blue\n*   A list item.\n\n    With multiple paragraphs.\n\n*   Another item in the list.\nThis is an [example link](http://example.com/).\n\nThis is an [example link](http://example.com/ \"With a Title\").\nI get 10 times more traffic from [Google][1] than from\n[Yahoo][2] or [MSN][3].\n\n[1]: http://google.com/        \"Google\"\n[2]: http://search.yahoo.com/  \"Yahoo Search\"\n[3]: http://search.msn.com/    \"MSN Search\"\nI start my morning with a cup of coffee and\n[The New York Times][NY Times].\n\n[ny times]: http://www.nytimes.com/"
+    content: "_Original web page: http://daringfireball.net/projects/markdown/basics_\n\nNow is the time for all good men to come to\nthe aid of their party. This is just a\nregular paragraph.\n\nThe quick brown fox jumped over the lazy\ndog's back.\n\n### Header 3\n\n> This is a blockquote.\n> \n> This is the second paragraph in the blockquote.\n>\n> ## This is an H2 in a blockquote\n\nSome of these words *are emphasized*.\nSome of these words _are emphasized also_.\n\nUse two asterisks for **strong emphasis**.\nOr, if you prefer, __use two underscores instead__.\n*   Candy.\n*   Gum.\n*   Booze.\n+   Candy.\n+   Gum.\n+   Booze.\n-   Candy.\n-   Gum.\n-   Booze.\n1.  Red\n2.  Green\n3.  Blue\n*   A list item.\n\n    With multiple paragraphs.\n\n*   Another item in the list.\nThis is an [example link](http://example.com/).\n\nThis is an [example link](http://example.com/ \"With a Title\").\nI get 10 times more traffic from [Google][1] than from\n[Yahoo][2] or [MSN][3].\n\n[1]: http://google.com/        \"Google\"\n[2]: http://search.yahoo.com/  \"Yahoo Search\"\n[3]: http://search.msn.com/    \"MSN Search\"\nI start my morning with a cup of coffee and\n[The New York Times][NY Times].\n\n[ny times]: http://www.nytimes.com/"
     image: null
-```
+    updated_at: 1414430858616
+    id: 8c5e63b05dfe11e4a2163391f845577c00cf863799e54743
+---
 _Original web page: http://daringfireball.net/projects/markdown/basics_
 
 Now is the time for all good men to come to
-the aid of their country. This is just a
+the aid of their party. This is just a
 regular paragraph.
 
 The quick brown fox jumped over the lazy
